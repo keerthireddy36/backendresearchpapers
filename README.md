@@ -19,8 +19,8 @@ A Python tool to fetch research papers from PubMed with pharmaceutical/biotech a
 2.Clone this repository:
 bash
 
-git clone https://github.com/yourusername/research-paper-fetcher.git
-cd research-paper-fetcher
+git clone https://github.com/keerthireddy36/backendresearchpapers
+cd backendresearchpapers
 
 3.Install dependencies:
 bash
